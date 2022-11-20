@@ -3,7 +3,8 @@
 // The list of file replacements can be found in `angular.json`.
 
 export const environment = {
-  production: false
+  production: false,
+  baseUri: 'http://65.0.224.253:8081/digitailors'
 };
 
 /*
